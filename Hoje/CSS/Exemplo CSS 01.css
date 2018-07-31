@@ -1,0 +1,41 @@
+.botao:hover{
+
+		background-color: rgb(86, 6, 23);
+		color: #e0e2e5;
+		text-transform: uppercase; 
+	}
+
+	.botao{
+		background-color: #EACE21;
+		color:#3168bc ;
+
+		font-weight: bold;
+		width: 200px;
+		height: 40px;
+		text-decoration: none;
+		display: block;
+		text-align: center;
+
+		border-radius: 20px;
+
+		border-color: deeppink;
+		border-width: 1px;
+		border-style: solid;
+
+		border-top-color: blue;
+		border-bottom-color: blue;
+		/*border: 1px solid black;*/
+	}
+
+	.Imagem{
+		background-image: url("../Imagens/renome.jpg");
+		height: 800px;
+		background-repeat: no-repeat;
+		background-position: center;
+
+	}
+	.campo-texto{
+		border: 0;
+		border-bottom: 1px solid red;
+		
+	}
