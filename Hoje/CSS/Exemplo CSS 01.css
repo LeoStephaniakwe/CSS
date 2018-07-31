@@ -24,18 +24,18 @@
 
 		border-top-color: blue;
 		border-bottom-color: blue;
-		/*border: 1px solid black;*/
+		border: 1px solid green;
 	}
 
-	.Imagem{
+	/*.Imagem{
 		background-image: url("../Imagens/renome.jpg");
 		height: 800px;
 		background-repeat: no-repeat;
-		background-position: center;
+		background-position: center;*/
 
 	}
-	.campo-texto{
-		border: 0;
-		border-bottom: 1px solid red;
+	.campo-texto : focus{
+		outline : none;
+		border-bottom:  1px solid red;
 		
 	}
